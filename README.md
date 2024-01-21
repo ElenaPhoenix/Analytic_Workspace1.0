@@ -17,6 +17,13 @@ https://www.ngpedia.ru/id583341p1.html
 * Официальная документация по работе с API HH https://github.com/hhru/api 
 * Документация по продукту Analytic Workspace https://webhelp.analyticworkspace.ru/
 
+Подключение к учебной БД. Конфигурационные данные:
+Тип СУБД - PostgreSQL
+Имя хоста  - 192.168.0.18
+Номер порта  - 5442
+Наименование Базы данных - sample
+Логин/пароль - awsample/Gdjnc612dD
+
 
 
 
